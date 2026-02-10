@@ -1,8 +1,9 @@
 
+
 <div align="center">
 
 <!-- Animated Typing Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Mouncef+Tamda;%E2%9A%BD+Former+Pro+Footballer+turned+SWE;%F0%9F%92%BB+Building+things+that+matter" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%F0%9F%91%8B+Hey%2C+I'm+Mouncef+Tamda;%E2%9A%BD+Former+Pro+Footballer+turned+SWE;%F0%9F%92%BB+Building+things+that+matter" alt="Typing SVG" /></a>
 
 <!-- Animated wave header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mouncef%20Tamda&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Engineer%20%7C%20AI%20Researcher%20%7C%20Former%20Pro%20Footballer&descSize=16&descAlignY=52&descAlign=50" width="100%"/>
