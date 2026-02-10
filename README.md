@@ -1,16 +1,164 @@
-## Hi there 👋
+<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🔥 GITHUB PROFILE README — MOUNCEF TAMDA                                   -->
+<!-- Replace MouncefMoe with your actual GitHub username everywhere below      -->
+<!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
-<!--
-**MouncefMoe/MouncefMoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<!-- Animated Typing Header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Mouncef+Tamda;%E2%9A%BD+Pro+Footballer+turned+Software+Engineer;%F0%9F%92%BB+Building+things+that+matter)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Animated wave divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mouncef%20Tamda&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Engineer%20%7C%20AI%20Researcher%20%7C%20Ex-Pro%20Footballer&descSize=16&descAlignY=52&descAlign=50" width="100%"/>
+
+<!-- Profile Views Counter & Social Badges -->
+<p>
+  <a href="https://github.com/MouncefMoe"><img src="https://komarev.com/ghpvc/?username=MouncefMoe&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile Views"/></a>
+  <a href="https://linkedin.com/in/mounceftamda"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mounceftamda0002@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```yaml
+name: Mouncef Tamda (Moe)
+location: Indianapolis, IN 🇺🇸
+origin: Algeria 🇩🇿
+education: Senior CS + Math @ Purdue University Indianapolis (May 2026)
+languages_spoken: [English, French, Arabic, Berber, Spanish]
+current_role: Full Stack Engineer | AI Research Assistant | Freelance Developer
+fun_fact: Former professional soccer player who traded cleats for code ⚽→💻
+```
+
+> *"I went from reading defenders to reading documentation — both require quick thinking under pressure."*
+
+---
+
+## 🚀 What I'm Working On
+
+- 🤖 **MoCoach AI** — AI-powered soccer coaching app (Flutter + AI training plan generation) — *Capstone Project*
+- 🐾 **PAW OLOGY** — Cross-platform pet boarding platform (Flutter + NestJS)
+- 🧠 **Multi-Agent LLM Research** — Building modular frameworks of specialized AI agents under Prof. Mukhopadhyay
+- 🏥 **ResqTap** — Emergency first aid app with real-time CPR guidance (Spring Boot + AWS)
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+#### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### Frameworks & Tools
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+#### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MouncefMoe&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouncefMoe&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MouncefMoe&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff" height="180"/>
+</div>
+
+<!-- Contribution Graph Snake Animation -->
+<!-- To enable this, set up the GitHub Action (instructions below) -->
+<!-- <img src="https://raw.githubusercontent.com/MouncefMoe/MouncefMoe/output/github-snake-dark.svg" width="100%"/> -->
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MouncefMoe&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+</div>
+
+---
+
+## ⚡ Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/MouncefMoe/resqtap">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouncefMoe&repo=resqtap&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/MouncefMoe/Apply1st">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouncefMoe&repo=Apply1st&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/MouncefMoe/collaborative-multi-llm">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouncefMoe&repo=collaborative-multi-llm&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/MouncefMoe/chess-backend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouncefMoe&repo=chess-backend&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
+
+</div>
+
+<!-- Add more pinned repos as needed — just update the repo= parameter. PAW OLOGY and Portfolio are private so not shown here. -->
+
+---
+
+## 🌍 My Journey
+
+```
+⚽ Professional Soccer Player (Algeria)
+        ↓
+🇺🇸 Moved to the United States
+        ↓
+🏊 Lifeguard Supervisor — learned that seconds save lives
+        ↓
+💡 Inspired to build ResqTap (emergency first aid app)
+        ↓
+🎓 Computer Science + Math @ Purdue Indianapolis
+        ↓
+🔬 AI/LLM Research + Full Stack Engineering
+        ↓
+🚀 Building the future, one commit at a time
+```
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect!
+
+*I'm actively looking for **New Grad Software Engineering** roles starting **May 2026**.*\
+*Open to full-time opportunities in software engineering, AI/ML, and full-stack development.*
+
+<a href="https://linkedin.com/in/mounceftamda"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:mounceftamda0002@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
