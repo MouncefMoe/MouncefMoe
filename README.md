@@ -1,5 +1,10 @@
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 <!-- 🔥 GITHUB PROFILE README — MOUNCEF TAMDA                                   -->
+<!--                                                                              -->
+<!-- OPTIONAL: Deploy your own GitHub Readme Stats for reliable cards:            -->
+<!-- 1. Fork https://github.com/anuraghazra/github-readme-stats                  -->
+<!-- 2. Go to https://vercel.com → Import your fork → Deploy                     -->
+<!-- 3. Replace github-readme-stats.vercel.app with YOUR-APP.vercel.app below    -->
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -85,6 +90,7 @@ fun_fact: Former professional soccer player who traded cleats for code ⚽→�
 #### Cloud & DevOps
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -98,52 +104,49 @@ fun_fact: Former professional soccer player who traded cleats for code ⚽→�
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/MouncefMoe">
-    <img src="https://github-readme-stats.vercel.app/api?username=MouncefMoe&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" height="180" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/MouncefMoe">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouncefMoe&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="180" alt="Top Languages"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=MouncefMoe&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E40&currStreakLabel=58A6FF" alt="GitHub Streak"/>
   </a>
 </div>
 
-<br/>
+<!--
+  ╔══════════════════════════════════════════════════════════════════════╗
+  ║  WANT MORE STATS CARDS? (GitHub Stats + Top Languages + Trophies)  ║
+  ║                                                                    ║
+  ║  The free github-readme-stats.vercel.app is rate-limited and       ║
+  ║  images break often. To fix this permanently:                      ║
+  ║                                                                    ║
+  ║  1. Fork: https://github.com/anuraghazra/github-readme-stats      ║
+  ║  2. Go to https://vercel.com and sign in with GitHub               ║
+  ║  3. Click "Add New Project" → Import your fork → Deploy            ║
+  ║  4. In Vercel project settings, add Environment Variable:          ║
+  ║     PAT_1 = your GitHub Personal Access Token                      ║
+  ║     (create one at github.com/settings/tokens with read:user)      ║
+  ║  5. Replace the URLs below with your Vercel app URL                ║
+  ║                                                                    ║
+  ║  Then uncomment the blocks below and replace YOUR-APP:             ║
+  ╚══════════════════════════════════════════════════════════════════════╝
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=MouncefMoe&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E40&currStreakLabel=58A6FF" height="180" alt="GitHub Streak"/>
-  </a>
+  <img src="https://YOUR-APP.vercel.app/api?username=MouncefMoe&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" height="180" alt="GitHub Stats"/>
+  <img src="https://YOUR-APP.vercel.app/api/top-langs/?username=MouncefMoe&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="180" alt="Top Languages"/>
 </div>
-
----
 
 ## 🏆 GitHub Trophies
-
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MouncefMoe&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="GitHub Trophies"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=MouncefMoe&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="GitHub Trophies"/>
 </div>
-
----
 
 ## ⚡ Featured Projects
-
 <div align="center">
-
-<a href="https://github.com/MouncefMoe/resqtap">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouncefMoe&repo=resqtap&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="ResqTap"/>
-</a>
-<a href="https://github.com/MouncefMoe/Apply1st">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouncefMoe&repo=Apply1st&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Apply1st"/>
-</a>
-<a href="https://github.com/MouncefMoe/collaborative-multi-llm">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouncefMoe&repo=collaborative-multi-llm&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Collaborative Multi-LLM"/>
-</a>
-<a href="https://github.com/MouncefMoe/chess-backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouncefMoe&repo=chess-backend&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Chess Backend"/>
-</a>
-
+  <a href="https://github.com/MouncefMoe/resqtap">
+    <img src="https://YOUR-APP.vercel.app/api/pin/?username=MouncefMoe&repo=resqtap&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="ResqTap"/>
+  </a>
+  <a href="https://github.com/MouncefMoe/Apply1st">
+    <img src="https://YOUR-APP.vercel.app/api/pin/?username=MouncefMoe&repo=Apply1st&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Apply1st"/>
+  </a>
 </div>
+-->
 
 ---
 
