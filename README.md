@@ -1,15 +1,14 @@
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 <!-- 🔥 GITHUB PROFILE README — MOUNCEF TAMDA                                   -->
-<!-- Replace MouncefMoe with your actual GitHub username everywhere below      -->
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Mouncef+Tamda;%E2%9A%BD+Pro+Footballer+turned+Software+Engineer;%F0%9F%92%BB+Building+things+that+matter)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Mouncef+Tamda;%E2%9A%BD+Former+Pro+Footballer+turned+SWE;%F0%9F%92%BB+Building+things+that+matter" alt="Typing SVG" /></a>
 
-<!-- Animated wave divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mouncef%20Tamda&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Engineer%20%7C%20AI%20Researcher%20%7C%20Ex-Pro%20Footballer&descSize=16&descAlignY=52&descAlign=50" width="100%"/>
+<!-- Animated wave header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mouncef%20Tamda&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Engineer%20%7C%20AI%20Researcher%20%7C%20Former%20Pro%20Footballer&descSize=16&descAlignY=52&descAlign=50" width="100%"/>
 
 <!-- Profile Views Counter & Social Badges -->
 <p>
@@ -28,9 +27,11 @@
 name: Mouncef Tamda (Moe)
 location: Indianapolis, IN 🇺🇸
 origin: Algeria 🇩🇿
-education: Senior CS + Math @ Purdue University Indianapolis (May 2026)
+education:
+  - B.S. Computer Science @ Purdue University Indianapolis (May 2026)
+  - B.S. Food Science & Quality Control (Algeria)
 languages_spoken: [English, French, Arabic, Berber, Spanish]
-current_role: Full Stack Engineer | AI Research Assistant | Freelance Developer
+current_role: Full Stack Engineer | Freelance Developer
 fun_fact: Former professional soccer player who traded cleats for code ⚽→💻
 ```
 
@@ -40,10 +41,19 @@ fun_fact: Former professional soccer player who traded cleats for code ⚽→�
 
 ## 🚀 What I'm Working On
 
-- 🤖 **MoCoach AI** — AI-powered soccer coaching app (Flutter + AI training plan generation) — *Capstone Project*
-- 🐾 **PAW OLOGY** — Cross-platform pet boarding platform (Flutter + NestJS)
-- 🧠 **Multi-Agent LLM Research** — Building modular frameworks of specialized AI agents under Prof. Mukhopadhyay
-- 🏥 **ResqTap** — Emergency first aid app with real-time CPR guidance (Spring Boot + AWS)
+- 🏆 **Coach Mo** — AI-powered soccer coaching app with personalized training plans — *Capstone Project*
+- 🐾 **PAW OLOGY** — Cross-platform pet care booking system with social features (posts, stories, videos, payments) built with Flutter + NestJS
+
+---
+
+## ✅ Completed Projects
+
+- 🧠 **Multi-Agent LLM Research** — Built modular frameworks of specialized AI agents under Prof. Mukhopadhyay, improving task accuracy by 35-40%
+- 🏥 **ResqTap** — Emergency first aid app with real-time CPR guidance (Spring Boot + AWS) — *Published on App Store & Google Play*
+- 💼 **Apply1st** — Full-stack job aggregator built with ASP.NET Core MVC and PostgreSQL
+- ♟️ **Chess Backend** — Real-time chess game server in JavaScript
+- 🌐 **Social Network Backend** — Java-based social platform API
+- 🛒 **E-Commerce Backend** — Python-powered e-commerce API
 
 ---
 
@@ -52,28 +62,34 @@ fun_fact: Former professional soccer player who traded cleats for code ⚽→�
 <div align="center">
 
 #### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+</p>
 
 #### Frameworks & Tools
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+</p>
 
 #### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
 
 </div>
 
@@ -82,24 +98,30 @@ fun_fact: Former professional soccer player who traded cleats for code ⚽→�
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MouncefMoe&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouncefMoe&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="180"/>
+  <a href="https://github.com/MouncefMoe">
+    <img src="https://github-readme-stats.vercel.app/api?username=MouncefMoe&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" height="180" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/MouncefMoe">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouncefMoe&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="180" alt="Top Languages"/>
+  </a>
 </div>
+
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MouncefMoe&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff" height="180"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=MouncefMoe&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E40&currStreakLabel=58A6FF" height="180" alt="GitHub Streak"/>
+  </a>
 </div>
-
-<!-- Contribution Graph Snake Animation -->
-<!-- To enable this, set up the GitHub Action (instructions below) -->
-<!-- <img src="https://raw.githubusercontent.com/MouncefMoe/MouncefMoe/output/github-snake-dark.svg" width="100%"/> -->
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MouncefMoe&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=MouncefMoe&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="GitHub Trophies"/>
+  </a>
 </div>
 
 ---
@@ -109,28 +131,28 @@ fun_fact: Former professional soccer player who traded cleats for code ⚽→�
 <div align="center">
 
 <a href="https://github.com/MouncefMoe/resqtap">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouncefMoe&repo=resqtap&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouncefMoe&repo=resqtap&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="ResqTap"/>
 </a>
 <a href="https://github.com/MouncefMoe/Apply1st">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouncefMoe&repo=Apply1st&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouncefMoe&repo=Apply1st&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Apply1st"/>
 </a>
 <a href="https://github.com/MouncefMoe/collaborative-multi-llm">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouncefMoe&repo=collaborative-multi-llm&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouncefMoe&repo=collaborative-multi-llm&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Collaborative Multi-LLM"/>
 </a>
 <a href="https://github.com/MouncefMoe/chess-backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouncefMoe&repo=chess-backend&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouncefMoe&repo=chess-backend&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Chess Backend"/>
 </a>
 
 </div>
-
-<!-- Add more pinned repos as needed — just update the repo= parameter. PAW OLOGY and Portfolio are private so not shown here. -->
 
 ---
 
 ## 🌍 My Journey
 
 ```
-⚽ Professional Soccer Player (Algeria)
+⚽ Former Professional Soccer Player (Algeria)
+        ↓
+🎓 B.S. Food Science & Quality Control (Algeria)
         ↓
 🇺🇸 Moved to the United States
         ↓
@@ -138,7 +160,7 @@ fun_fact: Former professional soccer player who traded cleats for code ⚽→�
         ↓
 💡 Inspired to build ResqTap (emergency first aid app)
         ↓
-🎓 Computer Science + Math @ Purdue Indianapolis
+🎓 B.S. Computer Science @ Purdue University Indianapolis
         ↓
 🔬 AI/LLM Research + Full Stack Engineering
         ↓
