@@ -1,11 +1,3 @@
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🔥 GITHUB PROFILE README — MOUNCEF TAMDA                                   -->
-<!--                                                                              -->
-<!-- OPTIONAL: Deploy your own GitHub Readme Stats for reliable cards:            -->
-<!-- 1. Fork https://github.com/anuraghazra/github-readme-stats                  -->
-<!-- 2. Go to https://vercel.com → Import your fork → Deploy                     -->
-<!-- 3. Replace github-readme-stats.vercel.app with YOUR-APP.vercel.app below    -->
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -35,7 +27,7 @@ origin: Algeria 🇩🇿
 education:
   - B.S. Computer Science @ Purdue University Indianapolis (May 2026)
   - B.S. Food Science & Quality Control (Algeria)
-languages_spoken: [English, French, Arabic, Berber, Spanish]
+languages_spoken: [English, French, Arabic, Berber, Algerian]
 current_role: Full Stack Engineer | Freelance Developer
 fun_fact: Former professional soccer player who traded cleats for code ⚽→💻
 ```
