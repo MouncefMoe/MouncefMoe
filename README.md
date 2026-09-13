@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Mouncef%20Tamda&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=34&desc=Software%20Engineer%20%7C%20AI%20%26%20Full-Stack%20%7C%20Former%20Pro%20Footballer&descSize=18&descAlignY=56&descAlign=50" width="100%"/>
+<h1>Hey, I'm Mouncef Tamda 👋</h1>
+<h3>Software Engineer · AI & Full-Stack · Former Pro Footballer</h3>
+<p><i>Purdue CS '26 · Indianapolis, IN · Open to New Grad SWE roles</i></p>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
